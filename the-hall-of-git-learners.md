@@ -2,4 +2,3 @@
 
 (Add `<YOUR_NAME> was here` to the file)
 
-Siva was here. :v:
