@@ -12,12 +12,17 @@ Some of them are listed below.
 Git is one of the most widely used tools in programming, so it would definitely be helpful in knowing how to use
 it.  
 
+> At first, if the concepts of Git feel difficult/intimidating, know that it is completely fine to be so.
+Everyone has been there once. Don't let it de-motivate you. 
+You don't have to fully understand/ know everything in a single day.
+
 ---
 
 Suggested resources for learning Git: 
 
-- [Git and Git for poets](http://youtube.com/) - A YouTube playlist  <br>
+- [Git and Git for poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - A YouTube playlist
     This is one of the easy to follow and quite interesting tutorial video series about Git and GitHub.
+    (you may skip the part about GitHub Pages for now if you want)
 
 
 - [Git-It](https://github.com/jlord/git-it-electron) - An interactive Desktop app for learning Git.  <br>
@@ -30,6 +35,7 @@ Suggested resources for learning Git:
 After going through the above links, you should now have a GitHub account, and know the basics of working with Git and  have Git set up and installed on your computers.
 
 ---
+
 Here is a Git Comic to enjoy from  [xkcd](https://xkcd.com/1597/https://xkcd.com) :joy: :
 
 
