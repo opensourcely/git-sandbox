@@ -24,10 +24,10 @@ Try out this simple youtube playlist.
 ---
   
 # Ready for an Adventure?
--   Step 1: Install git on your local machines
--   Step 2: Create a GitHub account
--   Step 3: Create a Pull request
--   Step 4: Add < Name - GitHub username > to [Members](https://github.com/opensourcely/Getting-Started/edit/master/README.md) along with the domain you are interested in.
+-   Step 1: Install git on your local machines.
+-   Step 2: Create a GitHub account.
+-   Step 3: Edit [Members](https://github.com/opensourcely/Getting-Started/edit/master/Members.md) to Add <Your_Name - Your_GitHub username > .
+-   Step 4: Create a Pull request
 -   Step 5: Welcome to the community.
 ---
 
