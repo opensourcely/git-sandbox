@@ -1,6 +1,6 @@
 ## Members of OpenSourcley
 
-(Add `<YOUR_NAME> - <YOUR_GitHub Username> - <Interested Domain>` below this)
+(Add `<YOUR_NAME> - <YOUR_GitHub Username>` below this)
 
 
-Hariharan.S.V     - Hariharan20            -  GUI
+Hariharan.S.V     - Hariharan20 
