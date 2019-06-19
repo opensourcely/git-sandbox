@@ -19,13 +19,13 @@ A.Harish Kumar    -Harish-A-Kumar
 
 Ashwath P         -Ashwathkkp
 
-Venkatesan S       -Faker2506
+Venkatesan S      -Faker2506
 
-Anantha Raam G   -darksideinme
+Anantha Raam G    -darksideinme
 
-𝑱𝒂𝒚𝒂𝒏𝒕𝒉 𝑺 𝑲       - 𝒊𝒎𝑱𝒂𝒚𝒂𝒏𝒕𝒉
+Jayanth S K        -imJayanth
 
-Jeswanth Murthy V     -jeswanth2502
+Jeswanth Murthy V  -jeswanth2502
 
 Narendran K         -NarenSi
 
@@ -38,5 +38,15 @@ Swarna S            -Swarna2001
 Ananya               -ananyasandilya
 
 Charan K R            -KRC-Swaag
+
+Shuki Varsun J       - Shuki30
+
+Balaguru M            -balaguru16
+
+Lakshminarayanan      -lakshminarayanannn
+
+Aadhith Narayan M     -aadhith1200
+
+Deepan.n             - DeepanNarayanaMoorthy
 
 Sangeetha V D         -Sangeetha2000
