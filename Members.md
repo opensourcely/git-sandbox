@@ -39,4 +39,12 @@ Ananya               -ananyasandilya
 
 Charan K R            -KRC-Swaag
 
+Shuki Varsun J       - Shuki30
+
+Balaguru M            -balaguru16
+
+Lakshminarayanan -lakshminarayanannn
+
+Aadhith Narayan M     -aadhith1200
+
 Deepan.n             - DeepanNarayanaMoorthy
